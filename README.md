@@ -99,5 +99,17 @@
         <b>Number work 8</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./number9.png">
+        <img
+          src="./number9.png"
+          width="300"
+          alt="Number work 9"
+          style="border-radius:50%;"
+        >
+        <br>
+        <b>Number work 8</b>
+      </a>
+    </td>
   </tr>
 </table>
