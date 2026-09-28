@@ -1,36 +1,4 @@
-<style>
-  .number-table {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    border-collapse: collapse;
-  }
 
-  .number-table td {
-    padding: 12px;
-    text-align: center;
-    vertical-align: top;
-  }
-
-  .number-table a {
-    display: inline-block;
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .number-table img {
-    display: block;
-    width: 300px;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto 8px;
-    border-radius: 50%;
-  }
-
-  .number-table b {
-    display: block;
-  }
-</style>
 
 <table class="number-table">
   <tbody>
