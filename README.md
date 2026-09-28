@@ -3,7 +3,7 @@
 <tr>
   <td>
     <a href="">
-      <img src="/number1.png" height="auto" width="200" style="border-radius:50%"><br/>
+      <img src="/number1.png" height="auto" width="200" style="border-radius:200%"><br/>
       <b></b>
     </a>
   </td>
